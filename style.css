@@ -224,18 +224,18 @@ div.videopreview{
 h2.l1{
 	text-align:center;
 	font-family: 'open_sansbold';
-	font-size:36px;
 	color:#fff;
 	font-weight:normal;
 	text-transform:uppercase;
+	font-size:2.5vw;
 	}
 	
 h2.l2{
 	text-align:center;
 	font-family: 'open_sanslight';
-	font-size:18px;
 	color:#fff;
 	font-weight:normal;
+	font-size:1.5vw;
 	}
 	
 a.button1{
